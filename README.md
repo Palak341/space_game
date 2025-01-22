@@ -1,4 +1,4 @@
-# Space Quiz Game
+# Space Quiz Game🚀 🌌 🪐
 
 ## Description
 The Space Quiz Game is a web-based application that tests users' knowledge about space. It provides a fun interactive quiz with multiple-choice questions about our solar system, planets, and stars.
